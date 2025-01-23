@@ -1,81 +1,68 @@
-# Hi there, I'm Vijay Raghul! 👋  
-### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate  
+# Hi there, I'm Vijay Raghul! 👋
 
----
-
-![DevOps](https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge)  
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-orange?style=for-the-badge)  
-
----
+🚀 **DevOps Engineer | Cloud Enthusiast | Automation Advocate**
 
 ## 👀 About Me  
-- Passionate about **designing, deploying, and optimizing** cloud-based infrastructures.  
-- Skilled in **automation**, **monitoring**, and **troubleshooting** large-scale distributed systems.  
-- Continuously exploring **new tools and technologies** to drive innovation in DevOps workflows.  
-
----
-
-## 🌟 Skills  
-### Cloud Platforms and Services:  
-![Azure](https://img.shields.io/badge/Azure-Expert-blue?style=for-the-badge)  
-- **Azure AKS**  
-- **Azure OpenAI**  
-- **CosmosDB**  
-- **Application Gateway**  
-- **Azure Firewall**  
-- **KeyVault**  
-
-### DevOps and Orchestration:  
-![Helm](https://img.shields.io/badge/Helm-Charts-blue?style=for-the-badge)  
-![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-orange?style=for-the-badge)  
-![Git](https://img.shields.io/badge/Git-Version%20Control-lightgrey?style=for-the-badge)  
-- **CI/CD Pipelines** with Azure DevOps  
-- **Helm Charts** for Kubernetes Orchestration  
-
-### Monitoring and Observability:  
-![Grafana](https://img.shields.io/badge/Grafana-Dashboard-orange?style=for-the-badge)  
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-red?style=for-the-badge)  
-- **Grafana**  
-- **Prometheus**  
-- **OpenSearch**  
-- **ELK Stack**  
-
-### Additional Tools and Platforms:  
-- **Linux**  
-- **Postman**  
-- **Git**  
-
----
-
-## 📈 Projects and Contributions  
-- Designed and implemented **highly available Kubernetes clusters** on Azure using AKS and Helm Charts.  
-- Built automated **CI/CD pipelines** for seamless deployment and scaling of microservices.  
-- Configured **Grafana and Prometheus** for real-time system monitoring and alerting.  
-- Deployed and managed **OpenSearch clusters** for robust logging and search capabilities.  
-
----
+- I’m passionate about **building scalable, reliable, and secure infrastructures**.  
+- Experienced in **CI/CD pipelines**, **container orchestration**, and **cloud platforms** like Azure, AWS, and GCP.  
+- I enjoy **optimizing processes**, **troubleshooting complex systems**, and **learning new technologies** to solve real-world challenges.  
 
 ## 🌱 Currently Learning  
-- **Advanced Kubernetes** with multi-cluster deployments.  
-- Deepening knowledge in **LLMs and AI-driven infrastructure monitoring**.  
+- **Advanced Kubernetes** for multi-cluster management and GitOps workflows.  
+- Exploring **Chaos Engineering** to enhance system resilience.  
+- Enhancing expertise in **AI-powered infrastructure monitoring and alerting**.
 
----
+## 💞️ Looking to Collaborate On  
+- **Open-source DevOps projects** that involve automation, monitoring, or cloud-native tools.  
+- **Infrastructure as Code (IaC)** projects using Terraform, Ansible, or Pulumi.  
+- **Custom CI/CD solutions** tailored for modern development workflows.  
 
 ## 📫 How to Reach Me  
-- **Email**: [vijayraghul77@example.com](mailto:vijayraghul77@example.com)  
+- **Email**: vijayrahulmedia@gmail.com
 - **LinkedIn**: [linkedin.com/in/vijayraghul](https://linkedin.com/in/vijayraghul)  
 - **Twitter**: [@VijayRaghul77](https://twitter.com/VijayRaghul77)  
 
----
+## 😄 Pronouns  
+He/Him  
 
 ## ⚡ Fun Fact  
-When I'm not automating processes, I enjoy exploring open-source tools, tinkering with Linux, and experimenting in the kitchen! 🍳  
+When I'm not automating workflows, you’ll find me exploring open-source tools or cooking up something new in the kitchen! 🍳  
 
 ---
 
-## 🎨 Visual Overview  
-![DevOps Workflow](https://via.placeholder.com/800x400.png?text=DevOps+Workflow+Diagram)  
-![Cloud Platforms](https://via.placeholder.com/800x400.png?text=Azure+Infrastructure)  
+✨ Feel free to explore my repositories and reach out if you'd like to collaborate!
 
-✨ **Feel free to explore my repositories and connect with me for collaboration opportunities!**  
+## 🔧 Technologies Used
+
+### DevOps
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="50" alt="bash"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="50" alt="Docker"/> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" width="50" alt="Kubernetes"/> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" width="50" alt="CI/CD"/> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" width="50" alt="Jenkins"/> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" width="50" alt="Grafana"/> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" width="50" alt="Prometheus"/> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" width="50" alt="Terraform"/> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" width="50" alt="Ansible"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vault.png" width="50" alt="Vault"/> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" width="50" alt="Nginx"/>
+
+### ☁️ Cloud
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="50" alt="AWS"/><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="50" alt="Microsoft Azure"/> 
+
+### Database
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cassandra.png" width="50" alt="cas"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50" alt="sql"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" width="50" alt="sql">
+
+
+### 🔬 Analytics
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" width="50" alt="Elasticsearch"/> 
+
+
+### 🎮 Game Development
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="50" alt="Unity"/> 
+
+### 🖥️ Operating Systems
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" width="50" alt="Windows"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="50" alt="Linux"/>
+
+---
+
+**Let’s build and innovate together!**
