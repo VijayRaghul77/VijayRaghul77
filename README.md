@@ -18,7 +18,7 @@
 - **Custom CI/CD solutions** tailored for modern development workflows.  
 
 ## 📫 How to Reach Me  
-- **Email**: vijayrahulmedia@gmail.com
+- **Email**: vijay.raghultmk@gmail.com
 - **LinkedIn**: [linkedin.com/in/vijayraghul](https://linkedin.com/in/vijayraghul)  
 - **Twitter**: [@VijayRaghul77](https://twitter.com/VijayRaghul77)  
 
